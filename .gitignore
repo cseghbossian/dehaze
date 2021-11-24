@@ -1,5 +1,6 @@
 *.icloud
 .DS_Store
 .ipynb_checkpoints
+**/__pycache__/
 /*.ppm
 /*.pgm
